@@ -8,7 +8,7 @@ html{
 }
 
 body{
-    
+    background-color: bisque; 
     height: auto;
     width: auto;
 }
@@ -16,7 +16,6 @@ body{
 
 #wrapper{
     
-    background-color: bisque; 
     color: blue;
 }
 
@@ -93,19 +92,7 @@ border-radius: 4px;
     
 }
 
-#sub-main  p{
 
-    text-align : right;
-    
-    border: 2px solid #000;
-    border-radius: 20px; 
-    height: 50%;
-    width: 40%;
-    line-height: 200%;
-    font-size: 24px;
-    background-image: url(img/Wild-Pigeon-HD-Wallpaper-02621-540x338.jpg); 
-    display: inline-block;
-}
 
 .front-view{
     top: 10%;
